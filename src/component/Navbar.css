@@ -5,3 +5,10 @@
 .card{
     display: flex;
 }
+.headerBar{
+    padding: 5rem 0rem;
+    color: #fff;
+}
+.headerBar h1 {
+    padding: 2rem 0rem;
+}
