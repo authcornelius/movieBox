@@ -1,0 +1,7 @@
+ .FirstPageNavbar .headerBar{
+    height: 100%;
+    margin: 0 auto;
+}
+.card{
+    display: flex;
+}
